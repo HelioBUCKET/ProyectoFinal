@@ -1,0 +1,14 @@
+SUBIR COSAS
+
+-git add - A (añadir todo)
+ git add <nombre fichero> (añadir un fichero o directorio unicamente
+
+-git commit -m "comentario commit" (commit de varias cosas)
+ git commit -m "comentario commit" <fichero a hacer commit> (commit de una sola cosa)
+
+-git push -u origin master (subir al server)
+
+
+BAJAR REPO
+
+-git clone https://github.com/silver1525/ProyectoFinal.git
