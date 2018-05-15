@@ -1,7 +1,7 @@
 SUBIR COSAS
 
--git add - A (añadir todo)
- git add <nombre fichero> (añadir un fichero o directorio unicamente
+-git add - A (aÃ±adir todo)
+ git add <nombre fichero> (aÃ±adir un fichero o directorio unicamente
 
 -git commit -m "comentario commit" (commit de varias cosas)
  git commit -m "comentario commit" <fichero a hacer commit> (commit de una sola cosa)
@@ -11,4 +11,6 @@ SUBIR COSAS
 
 BAJAR REPO
 
--git clone https://github.com/silver1525/ProyectoFinal.git
+-git clone https://github.com/silver1525/ProyectoFinal.git (bajar todo)
+
+-git pull (actualizar proyecto)
